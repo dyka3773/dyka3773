@@ -34,7 +34,7 @@
 
 * 💻 Currently working as a Junior Full Stack Web Developer @ [European Dynamics](https://www.eurodyn.com/).
 
-* 🧪 Active member in **Project DROPSTAR** and former member in **Project ECOWISE** of [BEAM Auth](https://beamproject.gr/)
+* 🧪 Active member in **Project DROPSTAR** and former member in **Project ECOWISE** @ [BEAM Auth](https://beamproject.gr/)
 
 
 <details>
