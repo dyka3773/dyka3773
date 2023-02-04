@@ -18,6 +18,9 @@
 <a href="https://github.com/dyka3773/">
     <img src="https://komarev.com/ghpvc/?username=dyka3773&style=flat-square" />
 </a>
+<a href="https://profile-summary-for-github.com/user/dyka3773">
+    <img src="https://img.shields.io/badge/-Profile%20Summary-orange?style=flat-square&logo=github">
+</a>
 
 </br>
 <!-- GitHub Statistics -->
@@ -33,3 +36,23 @@
 
 * 🧪 Active member in **Project DROPSTAR** and former member in **Project ECOWISE** of [BEAM Auth](https://beamproject.gr/)
 
+
+<details>
+<summary>📈 Stats</summary>
+<br>
+My Github Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dyka3773&theme=github_dark) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dyka3773&theme=github_dark) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dyka3773&theme=github_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dyka3773&theme=github_dark&utcOffset=8)
+
+<br>
+Currently Coding & Listening to:
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dyka3773&cover_image=true&theme=compact&show_offline=true&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
+
+</details>
