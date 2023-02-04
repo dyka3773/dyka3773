@@ -15,7 +15,7 @@
 <a href="mailto:dyka3773@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
-<a href="https://pypi.org/user/drkostas/">
+<a href="https://github.com/dyka3773/">
     <img src="https://komarev.com/ghpvc/?username=dyka3773&label=Visitors&color=0e75b6&style=flat" alt="googoldkhan" />
 </a>
 
