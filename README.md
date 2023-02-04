@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
 <a href="https://github.com/dyka3773/">
-    <img src="https://komarev.com/ghpvc/?username=dyka3773&label=Visitors&color=0e75b6&style=flat" alt="googoldkhan" />
+    <img src="https://komarev.com/ghpvc/?username=dyka3773&style=flat-square" />
 </a>
 
 </br>
@@ -26,17 +26,10 @@
 </a>
 
 </p>
-<!--
-**dyka3773/dyka3773** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+* 🎓 Finishing my Software Engineering Degree @ [International Hellenic University](https://www.iee.ihu.gr/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 💻 Currently working as a Junior Full Stack Web Developer @ [European Dynamics](https://www.eurodyn.com/).
+
+* 🧪 Active member in **Project DROPSTAR** and former member in **Project ECOWISE** of [BEAM Auth](https://beamproject.gr/)
+
