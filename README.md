@@ -6,7 +6,7 @@
 
 <br/>
 <!-- Socials and CV -->
-<a href="https://drive.google.com/file/d/1LOkndwO1VhnQgpeErQWYejphjZtT9iwc/view?usp=share_link">
+<a href="./CV - Iraklis Konsoulas.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>
 <a href="https://www.linkedin.com/in/iraklis-konsoulas-558621176/">
