@@ -48,7 +48,7 @@ My Github Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dyka3773&theme=github_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dyka3773&theme=github_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dyka3773&theme=github_dark&utcOffset=2)
 
 <br>
 </details>
