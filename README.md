@@ -32,7 +32,7 @@
 
 * 🎓 Finishing my Software Engineering Degree @ [International Hellenic University](https://www.iee.ihu.gr/).
 
-* 💻 Currently working as a Junior Full Stack Web Developer @ [European Dynamics](https://www.eurodyn.com/).
+* 💻 Currently working as a Full Stack Web Developer @ [European Dynamics](https://www.eurodyn.com/).
 
 * 🧪 Active member in **Project DROPSTAR** and former member in **Project ECOWISE** @ [BEAM Auth](https://beamproject.gr/)
 
