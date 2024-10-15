@@ -6,7 +6,7 @@
 
 <br/>
 <!-- Socials and CV -->
-<a href="./CV - Iraklis Konsoulas.pdf">
+<a href="./Iraklis_Konsoulas_CV_Sep2024.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>
 <a href="https://www.linkedin.com/in/iraklis-konsoulas-558621176/">
@@ -34,7 +34,7 @@
 
 * 💻 Currently working as a Full Stack Web Developer @ [European Dynamics](https://www.eurodyn.com/).
 
-* 🧪 Active member in **Project DROPSTAR** and former member in **Project ECOWISE** @ [BEAM Auth](https://beamproject.gr/)
+* 🧪 Active mentor to newer generations of students and former member in **Project DROPSTAR** and **Project ECOWISE** @ [BEAM Auth](https://beamproject.gr/)
 
 
 <details>
