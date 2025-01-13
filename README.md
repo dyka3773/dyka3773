@@ -6,7 +6,7 @@
 
 <br/>
 <!-- Socials and CV -->
-<a href="./Iraklis_Konsoulas_CV_Oct24.pdf">
+<a href="./Iraklis_Konsoulas_CV_Jan25.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>
 <a href="https://www.linkedin.com/in/iraklis-konsoulas-558621176/">
