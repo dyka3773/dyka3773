@@ -1,7 +1,7 @@
 <p align="center">
 <!-- Vectorized image with sliding text -->
 <a href="https://github.com/dyka3773">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=200&multiline=true&color=F7F7F7&width=550&height=80&lines=Konsoulas+Iraklis;BSc+in+Software+Engineering+%7C+Full+Stack+Web+Developer;Data+Science+%7C+AI+%7C+Machine+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=200&multiline=true&color=F7F7F7&width=550&height=80&lines=Konsoulas+Iraklis;Software+Engineer+%7C+Full+Stack+Web+Developer" alt="Typing SVG" />
 </a>
 
 <br/>
