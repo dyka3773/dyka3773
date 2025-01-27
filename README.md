@@ -1,7 +1,7 @@
 <p align="center">
 <!-- Vectorized image with sliding text -->
 <a href="https://github.com/dyka3773">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=200&multiline=true&color=F7F7F7&width=550&height=80&lines=Konsoulas+Iraklis;BSc+Software+Engineer+Student+%7C+Full+Stack+Web+Developer;Data+Science+%7C+AI+%7C+Machine+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=200&multiline=true&color=F7F7F7&width=550&height=80&lines=Konsoulas+Iraklis;BSc+in+Software+Engineering+%7C+Full+Stack+Web+Developer;Data+Science+%7C+AI+%7C+Machine+Learning" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -30,9 +30,9 @@
 
 </p>
 
-* 🎓 Finishing my Software Engineering Degree @ [International Hellenic University](https://www.iee.ihu.gr/).
+* 🎓 BSc in Software Engineering @ [International Hellenic University](https://www.iee.ihu.gr/).
 
-* 💻 Currently working as a Full Stack Web Developer @ [European Dynamics](https://www.eurodyn.com/).
+* 💻 Currently working as a Full Stack Java Web Developer @ [European Dynamics](https://www.eurodyn.com/).
 
 * 🧪 Active mentor to newer generations of students and former member in **Project DROPSTAR** and **Project ECOWISE** @ [BEAM Auth](https://beamproject.gr/)
 
