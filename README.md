@@ -6,10 +6,10 @@
 
 <br/>
 <!-- Socials and CV -->
-<a href="./Iraklis_Konsoulas_CV_Jan25.pdf">
-    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
+<a href="https://dyka3773.github.io/">
+    <img src="https://img.shields.io/badge/-My%20Website-green?style=flat-square">
 </a>
-<a href="https://www.linkedin.com/in/iraklis-konsoulas-558621176/">
+<a href="https://www.linkedin.com/in/iraklis-konsoulas/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
 <a href="mailto:dyka3773@gmail.com">
